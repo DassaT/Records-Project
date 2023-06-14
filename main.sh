@@ -3,7 +3,7 @@
  
 # Define file name 
 
-file_name="records_test.csv" 
+file_name="records.csv" 
 
 # Function to validate user input 
 
